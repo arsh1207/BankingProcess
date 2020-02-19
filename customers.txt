@@ -1,0 +1,8 @@
+{jill,45}.
+{joe,17}.
+{bob,100}.
+{sue,125}.
+{philips,75}.
+{eddie,58}.
+{paul,250}.
+{doodle,50}.
